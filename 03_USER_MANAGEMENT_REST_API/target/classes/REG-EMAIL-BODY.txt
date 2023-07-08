@@ -1,0 +1,14 @@
+Hai {FULLNAME},<br>
+<br>
+Your registration is almost completed.<br>
+<br>
+To activate your account use below credentials,<br>
+<br>
+Temporary password : {TEMP-PWD}<br>
+<br>
+and click on below URL to activate the account.<br>
+<br>
+<a href="{URL}"> click here </a><br>
+<br>
+Thanks,<br>
+ADMIN Team.
